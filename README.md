@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carb0riot, but you can call me carbsie. :)
-- 👀 I’m interested in art, writing, coding, and lots of others!
+- 👀 I’m interested in art, writing, coding, and lots more!
 - 🌱 I’m currently learning from Harvard's CS50 course.
 - 📫 You can find me @carb0riot on most platforms!
 - 😄 My pronouns are she/her.
